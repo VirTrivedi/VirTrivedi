@@ -1,4 +1,4 @@
-### Hi, I'm Vir 👋
+### Hi, I'm Vir
 
 Finance + CS & Math at the University of Maryland ('27). I build market data infrastructure and study market microstructure. I'm currently a software engineering intern at Trillium Surveyor, working on cross-asset market data for manipulation detection.
 
